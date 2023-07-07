@@ -21,12 +21,12 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image:   url('https://i.imgur.com/RlnZbOa.jpg');
 
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(67, 181, 129);
+  --main-theme-color: rgb(255, 102, 255);
 
   /*
     Main Theme Transparency
@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://i.imgur.com/4sTV7dS.png);
 
   /*
     Change your friends icon image position
@@ -50,7 +50,7 @@
 
   /*
     Server Listing Width
-    Single Column:  62px
+    Single Column:  72px
     Double Column:  126px
     Triple Column:  184px
     Quad Column:    242px
@@ -149,7 +149,7 @@
   /*
     Scrollbar Colors
   */
-  --scrollbar-color: rgba(200, 200, 200, 0.2);
+  --scrollbar-color: rgba(204, 0, 153, .15);
 
   /*
     Unread Message Divider
@@ -183,9 +183,9 @@
     Channel colors
   */
   --text-voice-channel-color: rgb(142, 146, 151);
-  --text-voice-channel-hover-color: #dcddde;
-  --text-voice-channel-selected-text-color: #fff;
-  --unread-text-channel-color: #fff;
+  --text-voice-channel-hover-color: #ff33cc;
+  --text-voice-channel-selected-text-color: #ff00bf;
+  --unread-text-channel-color: #ff4dd2;
   --unread-text-channel-bubble-color: var(--main-theme-color);
 
   /*
